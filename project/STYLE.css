@@ -1,5 +1,9 @@
 body{
+    background-image: url("image/book.jpg")
     background-color: #f2bc94);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left:10px;
 }
 h1{
     text-align: CENTER;
